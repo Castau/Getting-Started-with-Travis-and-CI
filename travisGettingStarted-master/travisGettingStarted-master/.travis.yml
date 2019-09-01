@@ -8,4 +8,4 @@ matrix:
           jdk: oraclejdk8
 
 script:
-- mvn -q -B -f travisGettingStarted-master/travisGettingStarted-master/pom.xml clean verify
+- mvn -q -B -f Week-36-Assignments/travisGettingStarted-master/travisGettingStarted-master/pom.xml clean verify
