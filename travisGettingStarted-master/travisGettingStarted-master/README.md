@@ -1,4 +1,4 @@
-
+https://travis-ci.org/Castau/Week-36-Assignments.svg?branch=master
 
 Ultra simple Java Project meant for a Travis introduction
 
